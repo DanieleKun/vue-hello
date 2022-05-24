@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+#app {
+    background-color: rgb(32, 32, 32);
+}
+
+#app img {
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+
